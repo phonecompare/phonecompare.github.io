@@ -1,8 +1,7 @@
 body{
 	background-image:url("main1.jpg");
 	background-repeat: no-repeat;
-	width: auto;
-	height: auto;
+	background-size: contain;
 	font-family: 'Poppins', sans-serif;
 }
 .head{
