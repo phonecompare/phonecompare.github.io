@@ -78,7 +78,7 @@ embed:hover {
 	width:35%;
 }
 .first {
-	width: 25%;
+	width: 30%;
 	background-color:#F0E68C;
 	padding: 1em;
 	text-align: center;
@@ -87,7 +87,7 @@ embed:hover {
 	font-size: 20px;
 }
 .second {
-	width: 25%;
+	width: 30%;
 	background-color:#FFE4B5;
 	padding: 1em;
 	text-align: center;
@@ -96,7 +96,7 @@ embed:hover {
 	font-size: 20px;
 }
 .third {
-	width: 25%;
+	width: 30%;
 	background-color:#FFFFE0;
 	padding: 1em;
 	text-align: center;
