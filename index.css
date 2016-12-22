@@ -1,8 +1,9 @@
 body{
 	background-image:url("main1.jpg");
 	background-repeat: no-repeat;
-	background-size: contain;
 	font-family: 'Poppins', sans-serif;
+	height: relative;
+	width: auto;
 }
 .head{
 	width: 80%;
