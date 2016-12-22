@@ -4,8 +4,7 @@ body{
 	height: auto;
 	width: auto;
 	font-family: 'Poppins', sans-serif;
-	height: relative;
-	width: auto;
+	min-height: calc(100vh - 120px);
 }
 .head{
 	width: 80%;
