@@ -5,6 +5,10 @@ body {
 	font-family: 'Poppins', sans-serif;
 	
 }
+#intro {
+	height: auto;
+	width: 100%;
+}
 .one {
 	margin-top: 50px;
 	margin-bottom: 25px;
