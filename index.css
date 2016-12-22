@@ -23,6 +23,11 @@ h1 {
 	color: white;
 	opacity: 1;
 }
+.container {
+	position: center;
+	height: auto;
+	width: auto;
+}
 table, .lines{
 	border-style: hidden;
 }
