@@ -39,4 +39,8 @@ footer {
 	border-radius: 10px;
 	opacity: 0.8;
 	height: 25px;
+	position: absolute;
+    	left: 0;
+   	bottom: 0;
+	overflow:hidden;
 }
