@@ -1,12 +1,13 @@
 body{
 	background-image:url("main1.jpg");
 	background-repeat: no-repeat;
-	width: 100%;
+	width: auto;
+	height: auto;
 	font-family: 'Poppins', sans-serif;
 }
 .head{
 	width: 80%;
-	height:150px;
+	height:auto;
 	border-radius: 15px;
 	background-color: #142745;
 	opacity: 0.85;
