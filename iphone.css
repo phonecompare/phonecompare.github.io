@@ -8,7 +8,8 @@ body {
 #intro {
 	height: 150px;
 	width: 100%;
-	position: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 .one {
 	margin-top: 50px;
