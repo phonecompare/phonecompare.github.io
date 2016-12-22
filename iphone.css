@@ -1,19 +1,9 @@
 
 body {
 	background-color: #fff;
-	background-size: 100% 100%;
-	background-position: center;
-	background-repeat: no-repeat;
 	color: #5a5a5a;
 	font-family: 'Poppins', sans-serif;
 	
-}
-.clock {
-	opacity: 0.85;
-	background-color:#142745;
-	width: 250px;
-	border-radius: 15px;
-	position: fixed;
 }
 .one {
 	margin-top: 50px;
