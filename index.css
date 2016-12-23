@@ -2,6 +2,7 @@ body{
 	background-image:url("main1.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
+	position: center;
 	min-height: 100%;
 	width: auto;
 	font-family: Poppins, sans-serif;
