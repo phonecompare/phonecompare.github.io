@@ -1,8 +1,8 @@
 body{
 	background-image:url("main1.jpg");
 	background-repeat: no-repeat;
-	background-position: center;
-	position: center;
+	background-position: auto;
+	position: auto;
 	min-height: 100%;
 	width: auto;
 	font-family: Poppins, sans-serif;
